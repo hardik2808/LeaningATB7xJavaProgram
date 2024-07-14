@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to main">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064.java" afterDir="false" />
+    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git commit of 14">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab069.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab018.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +68,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab005.executor": "Run",
     "Application.Lab056.executor": "Run",
     "Application.Lab060.executor": "Run",
     "Application.Lab061.executor": "Run",
     "Application.Lab062.executor": "Run",
     "Application.Lab063.executor": "Run",
     "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab069.executor": "Run",
     "Application.Lab15.executor": "Run",
     "Application.Lab16.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/hardi/IdeaProjects/LeaningATB7xJavaProgram/src/Main.java"
@@ -129,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720846202898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Git commit of 14">
+      <option name="closed" value="true" />
+      <created>1720936326500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720936326500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Git commit of 14">
+      <option name="closed" value="true" />
+      <created>1720936427057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720936427057</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git first" />
     <MESSAGE value="Git first to main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git first to main" />
+    <MESSAGE value="Git commit of 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git commit of 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
