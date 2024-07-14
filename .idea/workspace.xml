@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to main">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git commit of 14" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +60,7 @@
     "Application.Lab062.executor": "Run",
     "Application.Lab063.executor": "Run",
     "Application.Lab064.executor": "Run",
+    "Application.Lab065.executor": "Run",
     "Application.Lab15.executor": "Run",
     "Application.Lab16.executor": "Run",
     "Application.Main.executor": "Run",
@@ -129,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720846202898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Git commit of 14">
+      <option name="closed" value="true" />
+      <created>1720936326500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720936326500</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +174,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git first" />
     <MESSAGE value="Git first to main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git first to main" />
+    <MESSAGE value="Git commit of 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git commit of 14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
