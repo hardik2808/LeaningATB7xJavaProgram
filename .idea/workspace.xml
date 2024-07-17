@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to main">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,24 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab056.executor": "Run",
-    "Application.Lab060.executor": "Run",
-    "Application.Lab061.executor": "Run",
-    "Application.Lab062.executor": "Run",
-    "Application.Lab063.executor": "Run",
-    "Application.Lab064.executor": "Run",
-    "Application.Lab15.executor": "Run",
-    "Application.Lab16.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hardi/IdeaProjects/LeaningATB7xJavaProgram/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab063.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hardi/IdeaProjects/LeaningATB7xJavaProgram/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
