@@ -4,43 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to master">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab147.java" afterDir="false" />
+    <list default="true" id="fd021b4e-c2c1-421d-88ea-bc3076589878" name="Changes" comment="Git first to master branch">
+      <change afterPath="$PROJECT_DIR$/src/Practice/LeftStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/RightStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27072024/Lab153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab161.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,9 +127,17 @@
     "Application.Lab145.executor": "Run",
     "Application.Lab146.executor": "Run",
     "Application.Lab147.executor": "Run",
+    "Application.Lab148.executor": "Run",
+    "Application.Lab149.executor": "Run",
     "Application.Lab15.executor": "Run",
+    "Application.Lab151.executor": "Run",
+    "Application.Lab153.executor": "Run",
+    "Application.Lab156.executor": "Run",
     "Application.Lab16.executor": "Run",
+    "Application.LeftStar.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RightStar.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -155,6 +147,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex_27072024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab087" />
@@ -162,19 +159,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab107" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab107" />
-      <module name="LeaningATB7xJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,6 +206,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.SecondLargest" />
+      <module name="LeaningATB7xJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,19 +231,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SecondLargest" />
       <item itemvalue="Application.Lab147" />
       <item itemvalue="Application.Lab087" />
-      <item itemvalue="Application.Lab107" />
       <item itemvalue="Application.Lab119" />
       <item itemvalue="Application.Lab145" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.Lab147" />
         <item itemvalue="Application.Lab145" />
         <item itemvalue="Application.Lab087" />
         <item itemvalue="Application.Lab119" />
-        <item itemvalue="Application.Lab107" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +312,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721454391799</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Git first to master branch">
+      <option name="closed" value="true" />
+      <created>1722059474075</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722059474075</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Git first to master branch">
+      <option name="closed" value="true" />
+      <created>1722059486000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722059486000</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +377,8 @@
     <MESSAGE value="Git first to main" />
     <MESSAGE value="Git commit of 17" />
     <MESSAGE value="Git first to master" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git first to master" />
+    <MESSAGE value="Git first to master branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git first to master branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
